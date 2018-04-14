@@ -1,0 +1,22 @@
+body {
+	background-image: url('../images/question.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.jumbotron {
+	text-align: center;
+	height: 100%;
+    background: transparent;
+}
+
+.answer {
+	background-color: #e3d7be;
+	border: solid #1c2841 2px;
+	visibility: hidden;
+}
+
+#reset {
+	visibility: hidden;
+}
